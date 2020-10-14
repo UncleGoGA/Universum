@@ -1,4 +1,5 @@
-﻿#include <iostream>
+/*Created by Egor Kozlov*/
+#include <iostream>
 #include <cmath>
 
 using namespace std;
